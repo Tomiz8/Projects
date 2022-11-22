@@ -1,4 +1,4 @@
-How To Tell A Story sing Data - Market Research Project
+##How To Tell A Story sing Data - Market Research Project
 
 This project's goal is to prepare a research on the restaurants market in Los Angeles, 
 thus help the partners to make business decisions about the opening of a new robot-run cafe.
